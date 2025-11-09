@@ -80,7 +80,9 @@ jupyter notebook notebook/analysis.ipynb
 ```
 
 ---
-## 📦 Project Structure
+## 📁 Project Structure
+
+```plaintext
 online-grocery-analysis/
 │
 ├── data/
@@ -95,6 +97,14 @@ online-grocery-analysis/
 ├── requirements.txt         # Python dependencies
 │
 └── README.md                # Project documentation
+```
+
+ **Explanation:**
+- `data/` → Contains dataset(s) used for analysis  
+- `notebook/` → Jupyter Notebook with all code, visuals, and insights  
+- `images/` → Optional folder for charts or screenshots  
+- `requirements.txt` → Python libraries needed to reproduce the project  
+- `README.md` → Main project overview and documentation
 
 ## 💬 Conclusion
 The analysis highlights that **speed attracts customers, but reliability retains them**.  
