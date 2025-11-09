@@ -77,3 +77,42 @@ pip install -r requirements.txt
 
 # Open the Jupyter Notebook
 jupyter notebook notebook/analysis.ipynb
+```
+
+---
+## 📦 Project Structure
+online-grocery-analysis/
+│
+├── data/
+│   └── data.csv             # (Optional - include sample or mock dataset)
+│
+├── notebook/
+│   └── analysis.ipynb       # Jupyter notebook for analysis
+│
+├── images/
+│   └── charts.png           # Key visualization images (optional)
+│
+├── requirements.txt         # Python dependencies
+│
+└── README.md                # Project documentation
+
+## 💬 Conclusion
+The analysis highlights that **speed attracts customers, but reliability retains them**.  
+All three platforms — **Blinkit**, **JioMart**, and **Swiggy Instamart** — are strong contenders, but improving **delivery efficiency**, **refund management**, and **customer experience consistency** can define the true market leader.
+
+---
+
+## 📎 Future Work
+- 🧠 Build a **predictive model** to estimate delivery delays  
+- 👥 Perform **customer segmentation** based on spending and satisfaction  
+- 📊 Create an interactive **dashboard** in Power BI or Tableau for visual storytelling  
+
+---
+
+## 👩‍💻 Author
+**Disha Jaiswal**  
+📧 [dishajaiswal057@gmail.com](mailto:dishajaiswal057@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/disha-jais/)  
+💻 [GitHub](https://github.com/disha-jais)
+
+
