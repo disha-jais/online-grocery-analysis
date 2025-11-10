@@ -4,7 +4,7 @@
 ---
 
 ## 📋 Project Overview
-This project explores **100,000 real online grocery orders** from **Blinkit**, **JioMart**, and **Swiggy Instamart** to uncover insights into customer behavior, delivery performance, and market competition.
+This project explores **100,000 real online grocery orders** from **Blinkit**, **JioMart**, and **Swiggy Instamart** to uncover insights into customer behavior, delivery performance and market competition.
 
 The goal is to analyze platform performance through:
 - Order trends and product preferences  
@@ -86,13 +86,13 @@ jupyter notebook notebook/analysis.ipynb
 online-grocery-analysis/
 │
 ├── data/
-│   └── data.csv             # (Optional - include sample or mock dataset)
+│   └── data.csv             # include dataset
 │
 ├── notebook/
 │   └── analysis.ipynb       # Jupyter notebook for analysis
 │
 ├── images/
-│   └── charts.png           # Key visualization images (optional)
+│   └── charts.png           # Key visualization images
 │
 ├── requirements.txt         # Python dependencies
 │
