@@ -5,7 +5,6 @@
 <!-- 🏷️ Project Title -->
 # 🛒 The Battle of India’s Online Grocery Giants: Blinkit vs. JioMart vs. Swiggy Instamart  
 *A Data Story on 100,000 Orders and What They Reveal About India’s Online Grocery Market*
-
 ---
 
 ## 📋 Project Overview
