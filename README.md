@@ -57,6 +57,8 @@ This project explores **100,000 real online grocery orders** from **Blinkit**, *
 - ⭐ Service Ratings Distribution  
 - 🔗 Correlation Heatmap among Key Numeric Features 
 
+**Note:** All visualization images are included in the `Images.zip` file in the root directory. Please unzip it locally to view the charts.
+
 ---
 
 ## 🧩 Methodology
