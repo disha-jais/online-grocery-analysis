@@ -1,3 +1,6 @@
+# 🛒 Online Grocery Market Analysis — Blinkit vs JioMart vs Swiggy Instamart  
+### A Data-Driven Deep Dive into 100,000+ Orders in India’s Fast-Growing Quick-Commerce Market
+
 <!-- 🖼️ Banner Image -->
 <p align="center">
   <img src="banner.png" alt="The Battle of India’s Online Grocery Giants Banner" width="100%">
