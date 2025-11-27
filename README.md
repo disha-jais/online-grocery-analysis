@@ -117,7 +117,7 @@ cd online-grocery-analysis
 pip install -r requirements.txt
 
 # Open the Jupyter Notebook
-jupyter notebook notebook/analysis.ipynb
+jupyter notebook notebook/EDA_analysis.ipynb
 ```
 
 ---
@@ -126,11 +126,9 @@ jupyter notebook notebook/analysis.ipynb
 ```plaintext
 online-grocery-analysis/
 │
-├── data/
-│   └── data.csv             # Dataset used for analysis
-│
-├── notebook/
-│   └── analysis.ipynb       # Jupyter notebook with code, visuals and insights
+├── sampledata.csv/ # Dataset used for analysis
+│                
+├── EDA_analysis.ipynb       # Jupyter notebook with code, visuals and insights
 │
 ├── images/
 │   └── charts.png           # Key visualization images
