@@ -126,7 +126,7 @@ jupyter notebook notebook/EDA_analysis.ipynb
 ```plaintext
 online-grocery-analysis/
 │
-├── sampledata.csv/ # Dataset used for analysis
+├── sampledata.csv           # Dataset used for analysis
 │                
 ├── EDA_analysis.ipynb       # Jupyter notebook with code, visuals and insights
 │
